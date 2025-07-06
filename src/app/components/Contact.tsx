@@ -15,7 +15,7 @@ export default function Contact() {
             </div>
             <div className="flex items-center gap-3 text-lg text-orange-800 font-semibold">
               <FaMapMarkerAlt className="text-orange-500" />
-              Mahaveer Nagar Ext., Near Shree Ram Circle, Kota
+              1k29 Mahaveer Nagar Ext., Shree Ram Circle, Kota
             </div>
             <div className="flex items-center gap-3 text-lg text-orange-800 font-semibold">
               <FaPhoneAlt className="text-orange-500" />

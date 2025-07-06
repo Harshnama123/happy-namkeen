@@ -42,7 +42,7 @@ export default function About() {
             </p>
             <ul className="text-lg md:text-xl text-gray-700 mb-4 leading-relaxed font-medium space-y-2 animate-fade-in text-left md:text-left mx-auto md:mx-0 max-w-xl">
               <li className="flex items-center gap-2"><FaCheckCircle className="text-green-500" /> Family-run since 1998</li>
-              <li className="flex items-center gap-2"><FaMapMarkerAlt className="text-orange-500" /> Mahaveer Nagar Ext., Near Shree Ram Circle, Kota</li>
+              <li className="flex items-center gap-2"><FaMapMarkerAlt className="text-orange-500" /> 1k29 Mahaveer Nagar Ext., Shree Ram Circle, Kota</li>
               <li className="flex items-center gap-2"><FaHeart className="text-pink-400" /> Unmatched taste & freshness</li>
               <li className="flex items-center gap-2"><FaCheckCircle className="text-green-500" /> Serving with love & tradition for 25+ years</li>
             </ul>
